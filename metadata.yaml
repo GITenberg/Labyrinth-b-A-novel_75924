@@ -1,0 +1,25 @@
+_repo: Labyrinth-b-A-novel_75924
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Diamant, Gertrude
+    gutenberg_agent_id: '58220'
+    url: http://www.gutenberg.org/2009/agents/58220
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75924'
+language: en
+pgterms:marc905: 20250412095124diamant
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Al Haines
+publication_note: '  $aNew York :$bCoward-McCann Inc, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Labyrinth : $b A novel'
+url: http://www.gutenberg.org/ebooks/75924
