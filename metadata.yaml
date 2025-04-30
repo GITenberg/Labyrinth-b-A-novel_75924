@@ -1,11 +1,16 @@
 _repo: Labyrinth-b-A-novel_75924
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75924-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Diamant, Gertrude
     gutenberg_agent_id: '58220'
     url: http://www.gutenberg.org/2009/agents/58220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75924#Labyrinth-b-A-novel
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
